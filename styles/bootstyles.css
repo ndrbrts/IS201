@@ -1,0 +1,38 @@
+.common{
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    right: 5px;
+    Left: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: 1px black;
+    text-align: center;
+    
+}
+
+.mainbody{
+    top: 114px;
+    right: 5px;
+    left: 5px;
+    bottom: 64px;
+}
+
+.footer{
+bottom: 5px;
+right: 5px;
+left: 5px;
+height: 20px;
+position: fixed;
+text-align: center;
+color: #555555;
+}
+
+.titlefont{
+    font-size: 2cm;}
+
+.navlinks{
+    float: right;
+}
